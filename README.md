@@ -35,7 +35,7 @@ This will open a web-based graphical interface
 ## User Interface Overview
 ### 1. Loading Video and Starting Analysis
 
-![Loading video and starting analysis](images/Obraz1.jpg)
+![Loading video and starting analysis](images/Obraz1.png)
 
 At this stage, the user loads a table tennis serve video, can preview the loaded media, and start the serve analysis by clicking the **Start Analysis** button. The status bar indicates the progress (e.g., "Analyzing...").
 
@@ -43,7 +43,7 @@ At this stage, the user loads a table tennis serve video, can preview the loaded
 
 ### 2. Serve Evaluation Results
 
-![Serve evaluation result](images/Obraz2.jpg)
+![Serve evaluation result](images/Obraz2.png)
 
 Once analysis is complete, this screen displays the serve's validity status (e.g., "ILLEGAL SERVE") along with key parameters such as toss height, serve angle, and ball visibility percentage. Important frame timestamps and serve metrics are also shown, supplemented by annotated video frames explaining the decision.
 
@@ -51,7 +51,7 @@ Once analysis is complete, this screen displays the serve's validity status (e.g
 
 ### 3. Detailed Visualization and Hidden Ball Frames
 
-![Trajectory visualization and hidden ball frames](images/Obraz3.jpg)
+![Trajectory visualization and hidden ball frames](images/Obraz3.png)
 
 This view provides a visualization of the serve's trajectory and angle using graphical markers overlaid on video frames. Thumbnails of frames where the ball was hidden are shown below, assisting in identifying serve faults and verifying ball visibility throughout the serve.
 
