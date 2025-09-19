@@ -1,2 +1,4 @@
 # Ignoruj cały folder wynik/ i wszystko co w nim
 wynik/
+# Ignoruj cache Pythona
+__pycache__/
