@@ -22,7 +22,7 @@ Install required Python libraries:
 
 ## How to Run
 Launch the application GUI with the command:
-'streamlit run GUI.py'
+streamlit run GUI.py
 
 This will open a web-based graphical interface
 
