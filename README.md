@@ -13,16 +13,16 @@ This project provides a system for analyzing table tennis services using compute
 - Streamlit: Python library to run the GUI.
 
 ### 2. Clone the Repository
-'git clone https://github.com/radoslawierzbicki/VAR_table_tennis.git'
-'cd VAR_table_tennis'
+`git clone https://github.com/radoslawierzbicki/VAR_table_tennis.git`
+`cd VAR_table_tennis`
 
 ### 3. Install Dependencies
 Install required Python libraries:
-'pip install streamlit torch opencv-python numpy'
+`pip install streamlit torch opencv-python numpy`
 
 ## How to Run
 Launch the application GUI with the command:
-streamlit run GUI.py
+`streamlit run GUI.py`
 
 This will open a web-based graphical interface
 
